@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="128" viewBox="0 0 512 128">
+    <rect width="512" height="128" fill="#0F0F10" rx="16"/>
+    <g transform="translate(24, 24)">
+      <rect x="0" y="8" width="64" height="64" rx="8" fill="none" stroke="#D4A843" stroke-width="6"/>
+      <path d="M8 52 L56 28" stroke="#E0BE6A" stroke-width="5" stroke-linecap="round"/>
+      <path d="M8 28 L56 52" stroke="#E0BE6A" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="32" cy="40" r="5" fill="#D4A843"/>
+    </g>
+    <text x="110" y="66" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="38" letter-spacing="3" fill="#FFFFFF">PHARNEECHAR</text>
+    <text x="112" y="90" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="14" letter-spacing="5" fill="#D4A843">ARCHITECTURAL METAL FURNITURE</text>
+  </svg>

@@ -1,0 +1,16 @@
+{
+  "name": "Pharneechar",
+  "short_name": "Pharneechar",
+  "description": "Quality metallic furniture manufacturer and supplier.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1C1C1E",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

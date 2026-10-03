@@ -1,0 +1,42 @@
+[
+  {
+    "id": "inq_1791026282486",
+    "timestamp": "2026-10-03T11:18:02.486Z",
+    "name": "Shiva Singh",
+    "email": "shivasinghk07@gmail.com",
+    "phone": "+91919638395504",
+    "company": "test",
+    "subject": "enquiry",
+    "message": "test enquiry"
+  },
+  {
+    "id": "inq_1791025509904",
+    "timestamp": "2026-10-03T11:05:09.904Z",
+    "name": "Shiva Singh",
+    "email": "shivasinghk07@gmail.com",
+    "phone": "+91919638395504",
+    "company": "test",
+    "subject": "enquiry",
+    "message": "test enquiry"
+  },
+  {
+    "id": "inq_1791025242569",
+    "timestamp": "2026-10-03T11:00:42.569Z",
+    "name": "Shiva Singh",
+    "email": "shiva@example.com",
+    "phone": "Not provided",
+    "company": "Not provided",
+    "subject": "New Inquiry from Shiva Singh",
+    "message": "Hello, this is a test inquiry message."
+  },
+  {
+    "id": "inq_1791023579553",
+    "timestamp": "2026-10-03T10:32:59.553Z",
+    "name": "Shiva Singh",
+    "email": "pharneechar2478@gmail.com",
+    "phone": "9016406429",
+    "company": "Not provided",
+    "subject": "New Inquiry from Shiva Singh",
+    "message": "Hello Pharneechar team, testing contact form submission!"
+  }
+]
